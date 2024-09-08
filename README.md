@@ -1,6 +1,9 @@
 # Sorting_Visualizer
+Welcome to Sorting Visualizer! I built this application because I was fascinated by sorting algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it.
 
-A web application showcasing the inner workings of sorting algorithms.
+   ![image](https://github.com/user-attachments/assets/eee939b1-e084-4fb8-bd8e-ccf664775fec)
+   
+This is a web application showcasing the inner workings of sorting algorithms.
 
 Implemented algorithms:
 1) Bubble sort
@@ -9,8 +12,6 @@ Implemented algorithms:
 4) Merge sort
 5) Quick sort
 6) Heap sort
-
-   ![image](https://github.com/user-attachments/assets/eee939b1-e084-4fb8-bd8e-ccf664775fec)
 
 
 Features:
