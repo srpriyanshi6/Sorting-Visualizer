@@ -10,6 +10,9 @@ Implemented algorithms:
 5) Quick sort
 6) Heap sort
 
+   ![image](https://github.com/user-attachments/assets/eee939b1-e084-4fb8-bd8e-ccf664775fec)
+
+
 Features:
 1) Colored representation of step being executed.
   1.1) Blue:default
